@@ -40,7 +40,7 @@ I am a working student currently pursuing a degree in **Information Systems** at
 
 ### 📫 Let's Connect!
 
-- **LinkedIn:** [linkedin.com/in/username](https://linkedin.com/in/dezssertsoul)
+- **LinkedIn:** [linkedin.com/in/dezssertsoul](https://linkedin.com/in/dezssertsoul)
 - **Instagram:** [@echaadentesiast](https://instagram.com/echaadentesiast) (Learning Excel with me!)
 
 *"Turning data into insights, and insights into secure intelligent systems."*

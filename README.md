@@ -1,7 +1,7 @@
 # Hi, I'm E c h a a 👋
 
-![Learning](https://img.shields.io/badge/Learning-AI%20Engineering-blue?style=for-the-badge&logo=google-colab)
-![Status](https://img.shields.io/badge/Status-Open%20To%20Collaborate-success?style=for-the-badge)
+[Learning](https://img.shields.io/badge/Learning-AI%20Engineering-blue?style=for-the-badge&logo=google-colab)
+[Status](https://img.shields.io/badge/Status-Open%20To%20Collaborate-success?style=for-the-badge)
 
 ### 🎓 Information Systems Student | Learning AI & Cyber Security
 

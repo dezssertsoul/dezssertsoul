@@ -1,5 +1,8 @@
 # Hi, I'm E c h a a 👋
 
+![Learning](https://img.shields.io/badge/Learning-AI%20Engineering-blue?style=for-the-badge&logo=google-colab)
+![Status](https://img.shields.io/badge/Status-Open%20To%20Collaborate-success?style=for-the-badge)
+
 ### 🎓 Information Systems Student | Learning AI & Cyber Security
 
 I am a working student currently pursuing a degree in **Information Systems** at Universitas Terbuka. I have a background in data processing and marketing, and I’m now actively expanding my skills into the world of **AI Engineering** and **Cyber Security**.

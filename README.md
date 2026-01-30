@@ -1,4 +1,4 @@
-# Hi, I'm [Nama Lengkap Kamu] 👋
+# Hi, I'm E c h a a 👋
 
 <p align="left">
 <img src="https://img.shields.io/badge/Learning-AI%20Engineering-blue?style=for-the-badge&logo=google-colab&logoColor=white" />
@@ -9,15 +9,11 @@
 
 I am a working student pursuing a degree in **Information Systems** at Universitas Terbuka. Currently, I am deeply focused on the **AI Engineer path** through the **"Pijak" program**.
 
----
-
 ### 🤝 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/username-kamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/AkunExcelKamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
-
----
 
 ### 🛠️ Languages and Tools:
 <p align="left">
@@ -30,11 +26,15 @@ I am a working student pursuing a degree in **Information Systems** at Universit
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
----
+### 📊 My GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=dezssertsoul&show_icons=true&theme=dracula&hide_border=true" alt="dezssertsoul's github stats" />
+</p>
 
-### 📊 My Growth
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dezssertsoul&show_icons=true&theme=dracula)
-
+### 🛠️ Top Languages
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezssertsoul&layout=compact&theme=dracula&hide_border=true" alt="dezssertsoul's top languages" />
+</p>
 ---
 
 *"Turning data into insights, one step at a time."*

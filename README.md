@@ -31,13 +31,6 @@ I am a working student currently pursuing a degree in **Information Systems** at
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dezssertsoul&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezssertsoul&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect!
 
 - **LinkedIn:** [linkedin.com/in/dezssertsoul](https://linkedin.com/in/dezssertsoul)

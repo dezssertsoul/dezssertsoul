@@ -39,6 +39,7 @@ I enjoy solving problems, whether it's managing data or building simple applicat
 ---
 
 ### 📊 My Growth
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dezssertsoul&show_icons=true&theme=quietlight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dezssertsoul&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezssertsoul&layout=compact&theme=dracula)
 
 *"Belajar hal baru memang menantang, tapi itulah bagian yang paling seru."*

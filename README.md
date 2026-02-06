@@ -27,15 +27,6 @@ I am a working student pursuing a degree in **Information Systems** at Universit
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40"/>
 </p>
 
-### 📊 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=dezssertsoul&show_icons=true&theme=dracula&hide_border=true" alt="dezssertsoul's github stats" />
-</p>
-
-### 🛠️ Top Languages
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezssertsoul&layout=compact&theme=dracula&hide_border=true" alt="dezssertsoul's top languages" />
-</p>
 ---
 
 *"Turning data into insights, one step at a time."*

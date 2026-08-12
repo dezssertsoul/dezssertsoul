@@ -7,7 +7,7 @@
 
 ### 🎓 Information Systems Student | Learning AI & Cyber Security
 
-I am a working student pursuing a degree in **Information Systems** at Universitas Terbuka. Currently, I am deeply focused on the **AI Engineer path** through the **"Pijak" program**.
+I am a working student pursuing a degree in **Information Systems** at Universitas Terbuka. Currently, I am deeply focused on the **Next-Gen AI Engineer path** through the **"Asah support by GoTo" program**.
 
 ### 🤝 Connect with me:
 <p align="left">

@@ -33,10 +33,9 @@ I am a working student pursuing a degree in **Information Systems** at Universit
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Activity:
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dezssertsoul&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dezssertsoul&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dezssertsoul&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
